@@ -20,6 +20,9 @@ __pycache__/
 *.env
 .venv/
 *.venv
+lib
+bin
+pyvenv.cfg
 
 # Temporary files
 *.tmp
